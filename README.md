@@ -77,16 +77,14 @@ CIRCUIT DIAGRAM
 
 
 
-**
-** Before Simulation output:** 
+## Before Simulation output:
 ![WhatsApp Image 2023-04-24 at 17 49 05](https://user-images.githubusercontent.com/123259278/233994997-9ca69d5e-03c2-44df-b6a5-048826f976ac.jpg)
 
-** After stimulation ountput:**
-
+## After stimulation output:
 
 ![EXP 02 ROBOTICS SS](https://user-images.githubusercontent.com/123259278/233992322-511c4c16-2b46-4087-bab7-633e60f4e0a0.png)
 
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+##RESULT: Arduino uno analog input functioning is learned and interfaced with digital input switch .
