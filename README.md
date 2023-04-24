@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+# EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
 
 
@@ -79,7 +79,7 @@ CIRCUIT DIAGRAM
 
 **
 ** Before Simulation output:** 
-![Uploading Screenshot (97).png…]()
+![WhatsApp Image 2023-04-24 at 17 49 05](https://user-images.githubusercontent.com/123259278/233994997-9ca69d5e-03c2-44df-b6a5-048826f976ac.jpg)
 
 ** After stimulation ountput:**
 
