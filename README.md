@@ -65,17 +65,32 @@ CIRCUIT DIAGRAM
 9.	Ensure safety before powering up the device 
 
 
-
+```
 **PROGRAM** 
  
+int potPin = A5;
+int ledPin = 2;
 
+void setup ()
+{
+  pinMode (potPin, INPUT);
+  pinMode (ledPin, OUTPUT);
+  Serial.begin(9600);
+}
 
+void loop(){
+   int PotMeasure = analogRead(A5);
+  Serial.print("Sensor Value: ");
+  Serial.println(PotMeasure);
+  if (PotMeasure>=650)
+  {
+    digitalWrite(2, HIGH);
+  }
+  else
+    digitalWrite(2, LOW);
+}
 
-
-
-
-
-
+```
 
 ## Before Simulation output:
 ![WhatsApp Image 2023-04-24 at 17 49 05](https://user-images.githubusercontent.com/123259278/233994997-9ca69d5e-03c2-44df-b6a5-048826f976ac.jpg)
