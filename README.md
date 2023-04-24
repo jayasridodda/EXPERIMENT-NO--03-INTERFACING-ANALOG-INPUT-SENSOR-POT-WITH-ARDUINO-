@@ -93,7 +93,9 @@ void loop(){
 ```
 
 ## Before Simulation output:
-![WhatsApp Image 2023-04-24 at 17 49 05](https://user-images.githubusercontent.com/123259278/233994997-9ca69d5e-03c2-44df-b6a5-048826f976ac.jpg)
+![Screenshot (99)](https://user-images.githubusercontent.com/123259278/233999433-911e1418-63b1-4cbf-9e17-6d99ccf2b1b0.png)
+
+
 
 ## After stimulation output:
 
