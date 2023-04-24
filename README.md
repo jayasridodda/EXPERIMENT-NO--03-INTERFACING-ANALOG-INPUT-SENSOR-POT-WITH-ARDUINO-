@@ -78,14 +78,13 @@ CIRCUIT DIAGRAM
 
 
 **
-**Simulation output:** 
-**
+** Before Simulation output:** 
+![Uploading Screenshot (97).png…]()
+
+** After stimulation ountput:**
 
 
-[My image](username.github.com/repository/img/image.jpg)
-
-
-
+![EXP 02 ROBOTICS SS](https://user-images.githubusercontent.com/123259278/233992322-511c4c16-2b46-4087-bab7-633e60f4e0a0.png)
 
 
 
